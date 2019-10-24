@@ -1,0 +1,19 @@
+.bg-image{
+    background: url(../images/bgtexture.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.fugaz-one{
+    font-family: 'Fugaz One', cursive;
+}
+.maroonTxt{
+    color: #5F002B;
+}
+.size20{
+    font-size: 20px;
+}
+.ml50{
+    margin-left: 50px;
+}
