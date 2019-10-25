@@ -1,0 +1,44 @@
+.bg-image{
+    background: url(../images/bgtexture.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.fugaz-one{
+    font-family: 'Fugaz One', cursive;
+}
+.white{
+    background-color: white;
+}
+.maroonTxt{
+    color: #5F002B;
+}
+.size20{
+    font-size: 20px;
+}
+.size50{
+    font-size: 50px;
+}
+.ml50{
+    margin-left: 50px;
+}
+.mb100{
+    margin-bottom: 100px;
+}
+.header-image{
+    background: url(../images/homeHero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+}
+@font-face{
+    font-family: Montauk;
+    src: url(../fonts/Montauk-Regular.otf);
+    font-style: normal;
+}
+.montauk{
+    font-family:Montauk;
+}
