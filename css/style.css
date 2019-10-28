@@ -26,6 +26,9 @@
 .mb100{
     margin-bottom: 100px;
 }
+.mb60{
+    margin-bottom: 60px;
+}
 .header-image{
     background: url(../images/homeHero.jpg);
     background-position: center;
