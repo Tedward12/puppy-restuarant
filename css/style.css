@@ -6,7 +6,7 @@
     position: relative;
 }
 .fugaz-one{
-    font-family: 'Fugaz One', cursive;
+    font-family: 'Fugaz One', regular;
 }
 .white{
     background-color: white;
@@ -44,4 +44,11 @@
 }
 .montauk{
     font-family:Montauk;
+}
+.arrange{
+    display: flex;
+    justify-content: space-between;
+}
+.whiteBorder{
+    border: solid white 5px;
 }
