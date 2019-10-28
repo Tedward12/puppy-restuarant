@@ -6,7 +6,7 @@
     position: relative;
 }
 .fugaz-one{
-    font-family: 'Fugaz One', regular;
+    font-family: 'Fugaz One', cursive;
 }
 .white{
     background-color: white;
@@ -14,6 +14,20 @@
 .maroonTxt{
     color: #5F002B;
 }
+
+.size12{
+    font-size: small;
+}
+.size20{
+    font-size: 20px;
+}
+.size30{
+    font-size: 30px;
+}
+.size50{
+    font-size: 50px;
+}
+
 .size20{
     font-size: 20px;
 }
@@ -24,6 +38,7 @@
     margin-left: 100px;
     margin-right: 100px;
 }
+
 .ml50{
     margin-left: 50px;
 }
@@ -55,4 +70,12 @@
 }
 .whiteBorder{
     border: solid white 5px;
+}
+.catering-hero{
+    height: 50vh;
+    width: 100%;
+}
+.catering-main{
+    height: 65vh;
+
 }
