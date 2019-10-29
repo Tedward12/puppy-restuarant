@@ -79,3 +79,24 @@
     height: 65vh;
 
 }
+h2 {
+    text-align: center;
+    background-color: white;
+}
+body {
+    background-image: url('../Images/bgtexture.jpg');
+    color: brown;
+}
+
+.mbackground {
+    background-color: white;
+}
+
+.card-body{
+    background-color: white;
+}
+
+.card {
+    background-color: #ffffff00;
+    border: none;
+}
