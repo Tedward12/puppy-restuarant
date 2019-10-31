@@ -104,3 +104,33 @@ body {
 .footer-resize{
     height: 2rem;
 }
+.menu{
+    background-color: white;
+   color: #5F002B;
+}
+.card{
+    background-color: #ffffff00;
+    border: none;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.bg-white{
+background-color: white;    
+}
+.border-btm{
+    border-bottom: solid thin #5F002B;
+}
+p{
+    font-size: 15px;
+}
+@font-face{
+    font-family: Montauk;
+    src: url(../fonts/Montauk-Regular.otf);
+    font-style: normal;
+   }
+   .montauk{
+    font-family:Montauk;
+   }
+.zero{
+    padding: 0%;
+}
