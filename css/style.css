@@ -76,9 +76,10 @@
     width: 100%;
 }
 .catering-main{
-    height: 65vh;
-
+    height: 35vh;
 }
+
+
 h2 {
     text-align: center;
     background-color: white;
@@ -99,4 +100,7 @@ body {
 .card {
     background-color: #ffffff00;
     border: none;
+}
+.footer-resize{
+    height: 2rem;
 }
